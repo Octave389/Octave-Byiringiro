@@ -5,7 +5,7 @@ I love turning complex problems into simple, elegant solutions using **Java (Spr
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 Tech Stacks
 
 **Backend:**  
 - Java (Spring Boot, JPA, Hibernate)  
